@@ -1,0 +1,71 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    /* Limpa as configurações padrão dos navegadores */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #dddddd;
+}
+
+header {
+    height: 250px;
+    background-color: #217aff;
+}
+
+nav {
+    background-color: #34445c;
+    text-align: center;
+    color: #f9f9f9;
+    padding: 25px;
+}
+
+section {
+    min-height: 800px;
+    padding: 35px;
+    background-color: #f9f9f9;
+}
+
+article {
+    /* border: solid 1px blue; */
+    padding: 15px;
+    margin: 8px;
+}
+
+footer {
+    /* width: 75%; */
+    width: 100%;
+    margin: auto;
+    height: 85px;
+    padding: 15px 35px;
+    color: #999999;
+    background-color: #232323;
+    /* position: fixed; */
+    /* bottom: 0; */
+}
+
+.noticia1 {
+    width: 20%;
+    height: 100%;
+    background-color: #ffad50;
+    float: left;
+    padding: 0 5%;
+    text-align: justify;
+}
+
+.noticia2 {
+    width: 50%;
+    height: 100%;
+    padding: 0 5%;
+    background-color: #bdb76b;
+    float: left;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
